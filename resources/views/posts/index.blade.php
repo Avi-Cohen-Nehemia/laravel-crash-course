@@ -5,5 +5,5 @@ followed by the location of the view we require using dot notation --}}
 
 {{-- we can define a section in our view using the section keyword and then gicing it a name --}}
 @section('content')
-
+    index
 @endsection
